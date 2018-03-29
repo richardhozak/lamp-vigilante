@@ -1,0 +1,4 @@
+[submodule "qml-sys/DOtherSide"]
+	path = qml-sys/DOtherSide
+	url = https://github.com/zxey/DOtherSide.git
+	branch = fix-include
