@@ -1,0 +1,13 @@
+[package]
+name = "qml-sys"
+version = "0.1.0"
+build = "build.rs"
+
+[lib]
+name = "qml_sys"
+path = "lib.rs"
+
+[build-dependencies]
+pkg-config = "0.3"
+cc = "1.0"
+cmake = "0.1"

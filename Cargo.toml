@@ -1,0 +1,7 @@
+[package]
+name = "qml"
+version = "0.1.0"
+authors = ["Richard Hozák <hozak@jablotron.cz>"]
+
+[dependencies]
+qml-sys = { path = "qml-sys", version = "0.1" }
